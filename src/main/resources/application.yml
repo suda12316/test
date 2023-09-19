@@ -1,0 +1,7 @@
+# Redis相关的配置
+spring:
+  data:
+    redis:
+      host: 192.168.200.119
+      port: 6379
+      password: 123456
